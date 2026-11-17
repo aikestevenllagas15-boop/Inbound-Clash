@@ -1,0 +1,8 @@
+{
+  "name": "Remix Inkbound Clash",
+  "description": "Kinetic 2D stickman arena fighter featuring five distinct martial artists with elemental superpowers, tactical platforms, local 2-player versus, and responsive bot combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
